@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROAViewer", "ROAViewer\ROAViewer.csproj", "{28837691-E603-49FF-A808-592490A7FF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Realms", "Realms\Realms.csproj", "{5B144163-A37E-4449-8CFC-2504A62329D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28837691-E603-49FF-A808-592490A7FF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28837691-E603-49FF-A808-592490A7FF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28837691-E603-49FF-A808-592490A7FF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28837691-E603-49FF-A808-592490A7FF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B144163-A37E-4449-8CFC-2504A62329D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B144163-A37E-4449-8CFC-2504A62329D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B144163-A37E-4449-8CFC-2504A62329D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B144163-A37E-4449-8CFC-2504A62329D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6678009-AEBA-4D83-9737-1EA4B9846A70}
+	EndGlobalSection
+EndGlobal
