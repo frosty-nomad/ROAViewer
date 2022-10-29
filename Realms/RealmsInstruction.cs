@@ -493,6 +493,7 @@ namespace Realms
                 case RealmsInstType.Rest:
                 case RealmsInstType.Light:
                 case RealmsInstType.Return:
+                case RealmsInstType.Vault:
                     return 1;
 
                 case RealmsInstType.Title:
